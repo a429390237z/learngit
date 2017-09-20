@@ -99,7 +99,7 @@ git checkout其实使用版本库里的版本替换了工作区的版本，无�
 //Git本身的源代码可以通过git://协议来访问：</br>
 git clone git://git.kernel.org/put/scm/git/git.git</br>
 也可通过http协议来访问:</br>
-git cloen http://git.kernel.org/put/scm/git/git.git
+git clone http://git.kernel.org/put/scm/git/git.git
 
 ## git分支 ##
 查看分支：git branch</br>
